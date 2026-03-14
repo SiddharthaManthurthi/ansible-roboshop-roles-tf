@@ -9,3 +9,4 @@ MYSQL_HOST: mysql-dev.siddharthais.online
 SHIPPING_HOST: shipping-dev.siddharthais.online
 RABBITMQ_HOST: rabbitmq-dev.siddharthais.online
 PAYMENT_HOST: payment-dev.siddharthais.online
+app_version: v3
